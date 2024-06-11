@@ -10,9 +10,7 @@ I got to learn a lot during these 7 days and it was an amazing experience learni
 <li>Tensorflow
 <br>during these 7 days, and everything was explained from the very basics so that
 anyone with zero experience on programming can learn.
-visit:
-<a href="https://www.shapeai.tech"> www.shapeai.tech</a>
-or follow SHAPEAI on:
+follow SHAPEAI on:
 <li><a href=
 "https://in.linkedin.com/company/shapeai">LinkedIn</a>
 <li><a href=
